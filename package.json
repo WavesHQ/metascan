@@ -13,7 +13,7 @@
     "cypress:run": "TZ=UTC cypress run --headless --browser chrome"
   },
   "dependencies": {
-    "@defichain/jellyfish-network": "^3.14.0",
+    "@defichain/jellyfish-network": "^3.15.0",
     "@waveshq/standard-web": "^0.28.0",
     "@floating-ui/react-dom": "^1.2.0",
     "@headlessui/react": "^1.7.7",
