@@ -22,7 +22,7 @@
     "lodash": "^4.17.21",
     "react-code-blocks": "^0.0.9-0",
     "react-qr-code": "^2.0.11",
-    "recharts": "^2.2.0"
+    "recharts": "^2.3.2"
   },
   "devDependencies": {
     "@cypress/code-coverage": "^3.10.0",
